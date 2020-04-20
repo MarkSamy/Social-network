@@ -1,4 +1,4 @@
-Social Network MEAN applicatoin
+Social Network MEAN application
 # Features for user
 •	Register/login/logout
 •	Edit profile data
